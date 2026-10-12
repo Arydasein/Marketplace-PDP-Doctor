@@ -1,0 +1,8 @@
+{
+  "name": "Marketplace PDP Doctor by Boleh Belajar",
+  "description": "AI-powered Product Detail Page auditing tool based on the Boleh Belajar PDP Framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
